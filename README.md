@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=saipatnaik-cse&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
 <h1>Hello World, I'm Sai 👋</h1>
 
 
